@@ -1,0 +1,148 @@
+        .head {
+            font-family: monospace;
+            color: aqua;
+            text-shadow: 2px 2px 4px rgb(13, 56, 250);
+            text-decoration: underline;
+        }
+        
+        p.guide {
+            color: rgb(5, 146, 99);
+        }
+        
+        nav.navi {
+            border-style: solid;
+            background-image: url("C:/Users/Harry/Downloads/background-andy-waking.jpg");
+            min-width: 50px;
+        }
+        
+        li.nav {
+            display: inline;
+            color: white;
+            padding: 14px 10px;
+            color: rgba(160, 255, 116, 0.904);
+            font: 1.25em "Lucida Console";
+        }
+        
+        #tst {
+            width: 500px;
+            border: 2px solid rgb(12, 202, 155);
+            padding: 5px;
+            margin: 2px;
+            background-image: url("C:/Users/Harry/Downloads/background-andy-waking.jpg");
+        }
+        
+        #tst:hover {
+            border: 2px solid rgb(5, 226, 255);
+        }
+        
+        li.nav a:hover {
+            text-shadow: 2px 1px 4px rgb(255, 120, 214);
+        }
+        
+        li.nev {
+            display: inline;
+            color: white;
+            padding: 14px 16px;
+            color: rgb(255, 125, 186);
+        }
+        
+        li.nev a:hover {
+            text-shadow: 2px 1px 4px rgb(255, 120, 226);
+        }
+        
+        li.niv {
+            display: inline;
+            color: white;
+            padding: 14px 16px;
+            color: rgb(255, 242, 66);
+        }
+        
+        li.niv a:hover {
+            text-shadow: 2px 1px 4px rgb(194, 11, 226);
+        }
+        
+        a.nav {
+            padding: 10px;
+        }
+        
+        p.bd {
+            width: 400px;
+            font-family: Haettenschweiler;
+            font-size: 22px;
+            color: rgb(24, 73, 138);
+            background-color: burlywood;
+            background-image: url("https://www.sciencealert.com/images/2019-10/processed/europe_from_space_render_600.jpg");
+        }
+        
+        body {
+            background-image: url("C:/Users/Harry/Downloads/d75jqpn-b72323ca-4e11-4a0f-ad37-aa9d22907a3e.jpg");
+            background-attachment: scroll;
+        }
+        
+        a.link {
+            background-color: aqua;
+        }
+        
+        a.ylink {
+            background-color: aqua;
+        }
+        
+        h4.green {
+            font-family: Haettenschweiler;
+            font-size: 22px;
+            color: rgb(224, 141, 141);
+            text-decoration-line: underline;
+            text-shadow: 2px 2px 4px rgb(250, 13, 72);
+        }
+        
+        h2.abt {
+            font-family: Haettenschweiler;
+            font-size: 22px;
+            color: rgb(0, 207, 243);
+            text-decoration-line: underline;
+            text-shadow: 2px 2px 4px rgb(13, 116, 250);
+        }
+        
+        h2.maya {
+            font-family: Haettenschweiler;
+            font-size: 22px;
+            color: rgb(0, 207, 243);
+            text-decoration-line: underline;
+            text-shadow: 2px 2px 4px rgb(13, 116, 250);
+        }
+        
+        p.infom {
+            width: 400px;
+            font-family: Haettenschweiler;
+            font-size: 22px;
+            color: rgb(16, 214, 165);
+        }
+        
+        h2.houdini {
+            font-family: Haettenschweiler;
+            font-size: 22px;
+            color: rgb(0, 207, 243);
+            text-decoration-line: underline;
+            text-shadow: 2px 2px 4px rgb(13, 116, 250);
+        }
+        
+        p.crhd {
+            font-family: Haettenschweiler;
+            font-size: 15px;
+            color: rgb(251, 255, 0);
+            text-decoration-line: underline;
+            text-shadow: 2px 2px 4px rgb(250, 120, 13);
+        }
+        
+        p.info {
+            width: 400px;
+            font-family: Haettenschweiler;
+            font-size: 22px;
+            color: rgb(16, 214, 92);
+        }
+        
+        #aside {}
+        
+        img.pic {
+            border-radius: 20px;
+        }

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mlt LC_NUMERIC="en_US" version="6.15.0" title="Shotcut version 19.04.30" producer="main_bin">
+  <profile description="HD 1080p 25 fps" width="1920" height="1080" progressive="1" sample_aspect_num="1" sample_aspect_den="1" display_aspect_num="16" display_aspect_den="9" frame_rate_num="25" frame_rate_den="1" colorspace="709"/>
+  <producer id="producer0" title="Anonymous Submission" in="00:00:00.000" out="00:05:09.240">
+    <property name="length">7732</property>
+    <property name="eof">pause</property>
+    <property name="resource">ShareX/Screenshots/2019-06/dsO1iOHLlq.mp4</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-12T05:05:33</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">966c028fe3e8ea0153a00e56eec3beac</property>
+  </producer>
+  <producer id="producer1" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.080">
+    <property name="length">00:00:04:03</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Harry/Downloads/0001-0099.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-12T18:34:24</property>
+    <property name="shotcut:hash">f8a6d8bc0774c70cd18424bad352cca0</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">0001-0099.mkv</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer2" title="Anonymous Submission" in="00:00:00.000" out="00:02:07.240">
+    <property name="length">3182</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/Harry/Downloads/0001-9370.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-13T03:44:36</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">41d3e3cdffbd6eab1c7873bf8161bbf2</property>
+  </producer>
+  <producer id="producer3" title="Anonymous Submission" in="00:00:00.000" out="00:03:36.480">
+    <property name="length">5413</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/Harry/Downloads/bensound-retrosoul.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-06-12T17:55:57</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7621e16031b8e45b432a3e1c134ffcea</property>
+  </producer>
+  <playlist id="main_bin" title="Shotcut version 19.04.30">
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="xml_retain">1</property>
+    <entry producer="producer0" in="00:00:00.000" out="00:05:09.240"/>
+    <entry producer="producer1" in="00:00:00.000" out="00:00:04.080"/>
+    <entry producer="producer2" in="00:00:00.000" out="00:02:07.240"/>
+    <entry producer="producer3" in="00:00:00.000" out="00:03:36.480"/>
+  </playlist>
+  <producer id="black" in="00:00:00.000" out="00:01:20.640">
+    <property name="length">2017</property>
+    <property name="eof">pause</property>
+    <property name="resource">black</property>
+    <property name="aspect_ratio">1</property>
+    <property name="mlt_service">color</property>
+    <property name="mlt_image_format">rgb24</property>
+    <property name="set.test_audio">0</property>
+  </producer>
+  <playlist id="background">
+    <entry producer="black" in="00:00:00.000" out="00:01:20.640"/>
+  </playlist>
+  <producer id="producer4" title="Anonymous Submission" in="00:00:00.000" out="00:00:04.080">
+    <property name="length">00:00:04:03</property>
+    <property name="eof">pause</property>
+    <property name="resource">C:/Users/Harry/Downloads/0001-0099.mkv</property>
+    <property name="audio_index">1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="aspect_ratio">1</property>
+    <property name="creation_time">2019-06-12T18:34:24</property>
+    <property name="shotcut:hash">f8a6d8bc0774c70cd18424bad352cca0</property>
+    <property name="ignore_points">0</property>
+    <property name="shotcut:caption">0001-0099.mkv</property>
+    <property name="shotcut:skipConvert">1</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+  </producer>
+  <producer id="producer5" title="Anonymous Submission" in="00:00:00.000" out="00:01:17.280">
+    <property name="length">1933</property>
+    <property name="eof">pause</property>
+    <property name="resource">4:ShareX/Screenshots/2019-06/dsO1iOHLlq.mp4</property>
+    <property name="aspect_ratio">1</property>
+    <property name="seekable">1</property>
+    <property name="audio_index">-1</property>
+    <property name="video_index">0</property>
+    <property name="mute_on_pause">1</property>
+    <property name="warp_speed">4</property>
+    <property name="warp_resource">ShareX/Screenshots/2019-06/dsO1iOHLlq.mp4</property>
+    <property name="mlt_service">timewarp</property>
+    <property name="shotcut:producer">avformat</property>
+    <property name="video_delay">0</property>
+    <property name="shotcut:hash">966c028fe3e8ea0153a00e56eec3beac</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:caption">dsO1iOHLlq.mp4 (4x)</property>
+    <filter id="filter0" in="00:00:00.600" out="00:00:05.080">
+      <property name="argument">modelling of the sun in blender 2.8</property>
+      <property name="geometry">6 -72 1920 1080 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">normal</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff1115</property>
+      <property name="bgcolour">#e28986</property>
+      <property name="olcolour">#aaff9582</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">middle</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+      <property name="color"></property>
+      <property name="disable">0</property>
+      <property name="bevel">0</property>
+      <property name="text"></property>
+    </filter>
+    <filter id="filter1" in="00:00:00.600" out="00:01:17.120">
+      <property name="mlt_service">crop</property>
+      <property name="center">0</property>
+      <property name="center_bias">0</property>
+      <property name="top">0</property>
+      <property name="bottom">0</property>
+      <property name="left">0</property>
+      <property name="right">0</property>
+    </filter>
+    <filter id="filter2" in="00:01:14.840" out="00:01:17.120">
+      <property name="argument">thanks for watching please subscibe for more</property>
+      <property name="geometry">0 0 1920 1080 1</property>
+      <property name="family">Verdana</property>
+      <property name="size">1080</property>
+      <property name="weight">500</property>
+      <property name="style">normal</property>
+      <property name="fgcolour">#ff0004</property>
+      <property name="bgcolour">#00000000</property>
+      <property name="olcolour">#aaff6c82</property>
+      <property name="pad">0</property>
+      <property name="halign">center</property>
+      <property name="valign">bottom</property>
+      <property name="outline">3</property>
+      <property name="mlt_service">dynamictext</property>
+      <property name="shotcut:filter">dynamicText</property>
+      <property name="shotcut:usePointSize">0</property>
+      <property name="shotcut:animIn">00:00:00.000</property>
+      <property name="shotcut:animOut">00:00:00.000</property>
+    </filter>
+    <filter id="filter3" in="00:00:00.600" out="00:01:17.120">
+      <property name="start">1</property>
+      <property name="level">00:00:00.000=0;00:00:00.960=1</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeInBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+      <property name="geometry">00:00:00.000=0 0 0 0 1;00:00:00.960=0 0 0 0 1</property>
+    </filter>
+    <filter id="filter4" in="00:00:00.600" out="00:01:17.120">
+      <property name="start">1</property>
+      <property name="level">00:01:15.560=1;00:01:16.520=0</property>
+      <property name="mlt_service">brightness</property>
+      <property name="shotcut:filter">fadeOutBrightness</property>
+      <property name="alpha">1</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+    <filter id="filter5" in="00:00:00.600" out="00:01:17.120">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:00:00.000=-60;00:00:00.960=0</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeInVolume</property>
+      <property name="shotcut:animIn">00:00:01.000</property>
+    </filter>
+    <filter id="filter6" in="00:00:00.600" out="00:01:17.120">
+      <property name="window">75</property>
+      <property name="max_gain">20dB</property>
+      <property name="level">00:01:15.560=0;00:01:16.520=-60</property>
+      <property name="mlt_service">volume</property>
+      <property name="shotcut:filter">fadeOutVolume</property>
+      <property name="shotcut:animOut">00:00:01.000</property>
+    </filter>
+  </producer>
+  <playlist id="playlist0">
+    <property name="shotcut:video">1</property>
+    <property name="shotcut:name">V1</property>
+    <entry producer="producer4" in="00:00:00.000" out="00:00:04.080"/>
+    <entry producer="producer5" in="00:00:00.600" out="00:01:17.120"/>
+  </playlist>
+  <producer id="producer6" title="Anonymous Submission" in="00:00:00.000" out="00:03:36.480">
+    <property name="length">5413</property>
+    <property name="eof">pause</property>
+    <property name="resource">c:/Users/Harry/Downloads/bensound-retrosoul.mp3</property>
+    <property name="audio_index">0</property>
+    <property name="video_index">-1</property>
+    <property name="mute_on_pause">0</property>
+    <property name="mlt_service">avformat-novalidate</property>
+    <property name="seekable">1</property>
+    <property name="creation_time">2019-06-12T17:55:57</property>
+    <property name="global_feed">1</property>
+    <property name="xml">was here</property>
+    <property name="shotcut:hash">7621e16031b8e45b432a3e1c134ffcea</property>
+    <property name="shotcut:caption">bensound-retrosoul.mp3</property>
+  </producer>
+  <playlist id="playlist1">
+    <property name="shotcut:audio">1</property>
+    <property name="shotcut:name">A1</property>
+    <blank length="00:00:04.120"/>
+    <entry producer="producer6" in="00:00:00.000" out="00:01:16.440"/>
+  </playlist>
+  <tractor id="tractor0" title="Shotcut version 19.04.30" global_feed="1" in="00:00:00.000" out="00:01:20.640">
+    <property name="shotcut">1</property>
+    <property name="shotcut:projectAudioChannels">2</property>
+    <property name="shotcut:projectFolder">0</property>
+    <property name="shotcut:scaleFactor">0.28786</property>
+    <track producer="background"/>
+    <track producer="playlist0"/>
+    <track producer="playlist1" hide="video"/>
+    <transition id="transition0">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+    <transition id="transition1">
+      <property name="a_track">0</property>
+      <property name="b_track">1</property>
+      <property name="version">0.9</property>
+      <property name="mlt_service">frei0r.cairoblend</property>
+      <property name="disable">1</property>
+    </transition>
+    <transition id="transition2">
+      <property name="a_track">0</property>
+      <property name="b_track">2</property>
+      <property name="mlt_service">mix</property>
+      <property name="always_active">1</property>
+      <property name="sum">1</property>
+    </transition>
+  </tractor>
+</mlt>

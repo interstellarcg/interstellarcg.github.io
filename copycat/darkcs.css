@@ -1,0 +1,211 @@
+.head {
+    font-family: monospace;
+    color: aqua;
+    text-shadow: 2px 2px 4px rgb(13, 56, 250);
+    text-decoration: underline;
+    font-weight: 900;
+}
+
+p.guide {
+    color: rgb(5, 146, 99);
+}
+
+nav.navi {
+    border-style: solid;
+    background-image: url("C:/Users/Harry/Downloads/background-andy-waking.jpg");
+    min-width: 50px;
+}
+
+li.nav {
+    display: inline;
+    color: white;
+    padding: 14px 10px;
+    color: rgba(160, 255, 116, 0.904);
+    font: 1.25em "Lucida Console";
+}
+
+#tst {
+ 
+    border: 2px solid rgb(12, 202, 155);
+    padding: 5px;
+    margin: 2px;
+    background-image: url("darkweb-1200.jpg");
+}
+
+#tst:hover {
+    border: 2px solid rgb(255, 125, 102);
+    box-shadow: 0px 0px 5px red;
+}
+
+li.nav a:hover {
+    text-shadow: 2px 1px 4px rgb(255, 120, 214);
+}
+
+li.nev {
+    display: inline;
+    color: white;
+    padding: 14px 16px;
+    color: rgb(255, 125, 186);
+}
+
+li.nev a:hover {
+    text-shadow: 2px 1px 4px rgb(255, 120, 226);
+}
+
+li.niv {
+    display: inline;
+    color: white;
+    padding: 14px 16px;
+    color: rgb(255, 242, 66);
+}
+
+li.niv a:hover {
+    text-shadow: 2px 1px 4px rgb(194, 11, 226);
+}
+
+a.nav {
+    padding: 10px;
+}
+
+p.bd {
+  
+    font-family: Haettenschweiler;
+    font-size: 22px;
+    color: rgb(8, 237, 253);
+    text-shadow: 0px 0px 2px rgb(0, 47, 255);
+    
+   
+}
+
+body {
+    background-image: url("dark_web.jpg");
+    background-attachment: no-repeat;
+}
+
+a.link {
+    background-color: aqua;
+}
+
+a.ylink {
+    background-color: aqua;
+}
+
+h4.green {
+    font-family: Haettenschweiler;
+    font-size: 22px;
+    color: rgb(224, 141, 141);
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 4px rgb(250, 13, 72);
+}
+
+h2.abt {
+    font-family: Haettenschweiler;
+    font-size: 22px;
+    color: rgb(36, 222, 255);
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 4px rgb(1, 120, 218);
+}
+
+h2.maya {
+    font-family: Haettenschweiler;
+    font-size: 22px;
+    color: rgb(0, 207, 243);
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 4px rgb(13, 116, 250);
+}
+
+p.infom {
+    font-family: Haettenschweiler;
+    font-size: 22px;
+    color: rgb(16, 214, 165);
+}
+
+h2.houdini {
+    font-family: Haettenschweiler;
+    font-size: 22px;
+    color: rgb(230, 69, 20);
+    text-decoration-line: underline;
+    text-shadow: 0px 0px 6px  rgb(236, 35, 21)
+}
+
+p.crhd {
+    font-family: Haettenschweiler;
+    font-size: 15px;
+    color: rgb(251, 255, 0);
+    text-decoration-line: underline;
+    text-shadow: 2px 2px 4px rgb(255, 158, 30);
+}
+
+p.info {
+  
+    font-family: Haettenschweiler;
+    font-size: 22px;
+    color: rgb(16, 214, 92);
+    text-shadow: 0px 0px 4px rgb(32, 255, 32)
+}
+
+#aside{
+    color: brown;
+}
+
+img.pic {
+    border: rgb(255, 127, 127);
+  
+    border-radius: 20px;
+}
+img.pic:hover{
+    box-shadow: 0px 0px 4px red;
+}
+p.dang{
+    color: rgb(58, 255, 58);
+    text-shadow: 0px 0px 4px rgb(3, 107, 3);
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+}
+p.dang:hover{
+    text-shadow: 0px 0px 4px rgb(104, 6, 184);
+}
+#dang{
+    color: rgb(0, 204, 255);
+    text-shadow: rgb(28, 2, 141);
+    font-family: sans-serif;
+}
+#ban{
+    color: rgb(46, 255, 19);
+    text-shadow: rgb(32, 238, 5);
+    font-family: sans-serif;
+}
+.try{
+    border: 2px solid green;
+    color: rgb(51, 255, 0);
+    text-shadow: rgb(7, 78, 10);
+    margin: 1px;
+}
+#grand{
+    background-color: rgb(62, 65, 62);
+    color: lawngreen;
+    text-shadow:0px 0px 4px solid green;
+
+} 
+
+
+p#pp{
+    text-align: center;
+    
+}
+.monst{
+    font-size: medium;
+    
+    color: rgb(45, 255, 238);
+    text-shadow:0px 0px 5px blue ;
+}
+.monst:hover{
+    color: rgb(45, 255, 238);
+    text-shadow:0px 0px 5px blue ; 
+    text-decoration: underline;
+}
+#kk{
+   
+    width: 400px;
+}
